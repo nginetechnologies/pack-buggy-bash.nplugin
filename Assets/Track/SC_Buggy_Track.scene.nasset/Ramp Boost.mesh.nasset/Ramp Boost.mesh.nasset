@@ -1,0 +1,151 @@
+{
+    "guid": "fcefa57c-7820-6c01-b878-f86e8068eae0",
+    "type_version": 1,
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "84a24484-8e77-f8b5-087c-cd4adb124c72",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "11ee89c9-663e-e78c-acde-e2895e5b944d",
+            "data_components": [
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 0,
+                    "maximumAngularVelocity": 2699.9997,
+                    "overriddenMass": 0.0,
+                    "gravityScale": 1.0
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp Boost Physics Body"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "11ee89c9-663e-e78c-acde-e2895e5b944d"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "363a2983-4a0a-219c-e97e-e37b488ef32d",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "3998700f-9676-72c6-3a2e-5a541c290857"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Ramp Boost Wood Medium Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "363a2983-4a0a-219c-e97e-e37b488ef32d"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "972bec11-773d-3cd8-fca6-8347180b6d10",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3998700f-9676-72c6-3a2e-5a541c290857",
+                                "material_instance": "4fea5f78-fce7-3ae5-79b3-ce9c877c26c9"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Ramp Boost Wood Medium"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "972bec11-773d-3cd8-fca6-8347180b6d10"
+                                },
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "19cc50a3-f3c1-3333-2f55-6ea52d92f6b6",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "81cecbe5-4c23-91d2-243f-ff53a6e02c71"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Ramp Boost Boost Powerup Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "19cc50a3-f3c1-3333-2f55-6ea52d92f6b6"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "a026d531-10f3-fb14-2d0d-50ad644ce9b6",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "81cecbe5-4c23-91d2-243f-ff53a6e02c71",
+                                "material_instance": "ba3b7cc2-bdaa-7719-8a16-ae69cc2e8299"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Ramp Boost Boost Powerup"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "a026d531-10f3-fb14-2d0d-50ad644ce9b6"
+                                },
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "fcefa57c-7820-6c01-b878-f86e8068eae0"
+    }
+}
