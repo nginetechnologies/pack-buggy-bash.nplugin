@@ -1,10 +1,9 @@
 {
     "guid": "97b5262c-4937-f087-d828-21f890f4abd2",
-    "source": "Source/Stucco.mtli.nasset.dds",
+    "source": "Source/Stucco_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,

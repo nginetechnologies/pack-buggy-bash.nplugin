@@ -1,10 +1,9 @@
 {
     "guid": "3c356442-66dc-4dd2-902d-a91c6a0233d2",
-    "source": "Source/Grey 40.mtli.nasset.dds",
+    "source": "Source/Grey_40_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,
