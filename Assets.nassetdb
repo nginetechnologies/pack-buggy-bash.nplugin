@@ -4179,11 +4179,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Player/Player.scene.nasset"
-    },
     "ec9af6ae-904b-cc5e-f622-b2f5e1ec869e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
