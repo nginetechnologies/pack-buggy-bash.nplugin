@@ -1,10 +1,9 @@
 {
     "guid": "3e890b15-a171-6c22-6524-a30fec215b22",
-    "source": "Source/Boost Powerup.mtli.nasset.dds",
+    "source": "Source/Boost_Powerup_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,

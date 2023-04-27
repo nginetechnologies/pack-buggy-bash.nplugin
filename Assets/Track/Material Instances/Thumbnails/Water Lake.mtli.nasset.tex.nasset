@@ -1,10 +1,9 @@
 {
     "guid": "939faf4e-92aa-b88f-43f2-533315128af4",
-    "source": "Source/Water Lake.mtli.nasset.dds",
+    "source": "Source/Water_Lake_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,
